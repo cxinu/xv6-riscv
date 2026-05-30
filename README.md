@@ -13,4 +13,4 @@ tools
 
 - riscv64-elf-gcc assembly: https://godbolt.org/
 - xv6 architecture explorer: https://deepwiki.com/mit-pdos/xv6-riscv
-
+- list of riscv-isa: https://lhtin.github.io/01world/app/riscv-isa
